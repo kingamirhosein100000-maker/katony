@@ -33,7 +33,7 @@ body {
     overflow: hidden;
     -webkit-box-reflect: below 1rem;
     transition: .5s ease-in-out;
-background: linear-gradient(to bottom,transparent,black );
+background: linear-gradient(to bottom,transparent,rgba(0, 0, 0, 0.247) );
 
 }
 
@@ -77,3 +77,4 @@ background: linear-gradient(to bottom,transparent,black );
 .card-container:nth-child(5) .card {
     background: #F4C742;
 }
+
